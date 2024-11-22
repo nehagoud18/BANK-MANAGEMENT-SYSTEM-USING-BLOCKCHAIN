@@ -1,0 +1,24 @@
+Cyber Physical Customer Management for Internet of Robotic Things Enabled Banking
+
+
+IEEE Transaction on Blockchain,Volume:11,Issue Date:03.April.2023
+
+
+Tid	
+CustomerId	
+Surname	
+CreditScore	
+Geography	
+Gender	
+Age	
+Tenure	
+BankingType	
+KYC	
+Balance	
+NumOfProducts	
+HasCrCard	
+IsActiveMember	
+EstimatedSalary	
+Exited
+Hashcode
+BTHashcode
